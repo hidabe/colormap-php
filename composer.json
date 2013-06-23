@@ -19,7 +19,6 @@
         "php": ">=5.2"
     },
     "autoload": {
-        "psr-0": { "KennWilson\\ColorMap": "" }
-    },
-    "target-dir": "KennWilson/ColorMap"
+        "psr-0": { "KennWilson\\ColorMap\\": "lib/" }
+    }
 }
