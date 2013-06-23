@@ -8,7 +8,7 @@
 // | @version 1.1                                                              |
 // +---------------------------------------------------------------------------+
 
-namespace KennWilson\Colormap;
+namespace KennWilson\ColorMap;
 
 class ColorMap {
 	
