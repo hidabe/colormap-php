@@ -4,8 +4,11 @@
 // +---------------------------------------------------------------------------+
 // | @author Kenn Wilson                                                       |
 // | @copyright Copyright (c) 2008 Kenn Wilson                                 |
+// | @packagist Composer added by Fernando Hidalgo                             |
 // | @version 1.1                                                              |
 // +---------------------------------------------------------------------------+
+
+namespace KennWilson\Colormap;
 
 class ColorMap {
 	
