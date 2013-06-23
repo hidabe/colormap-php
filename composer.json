@@ -1,0 +1,20 @@
+{
+    "name": " kennwilson/colormap",
+    "version": "0.0.1",
+    "description": "Colormap from KennWilson (composer added by hidabe)",
+    "keywords": ["colormap","php"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenn Wilson"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "psr-0": { "KennWilson\\ColorMap": "" }
+    },
+    "target-dir": "KennWilson/ColorMap"
+}
